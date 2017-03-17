@@ -1,2 +1,72 @@
 # WilsonsReviews
 A Gaming Review Website - By Owen Wilson
+
+# The Planning
+ You are to design the site you have decided to build. The design consists of FOUR PHASES; each phase MUST be complete before you continue to Task 2. ** (P4)
+ 
+ ### Inspiration Board - 
+ your ideas. Collate colours, styles, layouts, fonts anything that gives you inspiration for your website.
+ 
+  ### Tools - 
+  Pinterest, StumbleUpon and Adobe Kuler.
+ 
+  ### Site Navigation - 
+ Mock up a tree diagram of your site navigation.
+ 
+ 
+# The Development 
+
+### Task 2
+
+Following on from your plans you are to create your proposed website.  The website must have the following properties ** (P5)
+
+1. Meet the client's needs.
+2. Be interactive. 
+3. Be responsive. 
+4. It must have a minimum of five pages.
+5. It must contain at least one video. 
+6. 50% of the images must have been captured by yourself and edited correctly.
+7. Animation to be added. This can be grand or minor aesthetics. 
+8. The website must be on a hosted server. 
+9. Templates are acceptable but 80% of change is needed. The template must also be submitted with the project. 
+10. Adhere to design philosophies. 
+
+
+### Task 3
+
+Conduct your black box and white box test. From this test correct any black box issues and implement two white box suggestions.  You will need to document evidence of each test and implementation. ** (M2)
+
+# The Documentation 
+
+You are now to create a report detailing your developments. This needs to be written professionally and correctly. Templates on Google Docs will help.
+
+### Task 4
+
+Justify how you have adhered to the planning documentation by demonstrating that a created website meets the defined requirements and achieved the defined purpose. This could be done through annotated screenshots to aid justification.** (D3)
+
+
+### Task 5
+
+An addition to the report will explain the tools and techniques used in the creation of an interactive website. ** (M2)
+
+
+### Task 6
+
+The report must also include a section focused on the techniques that can be used in web page to aid user access to information. ** (D2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
